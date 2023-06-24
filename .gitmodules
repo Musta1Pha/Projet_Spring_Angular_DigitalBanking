@@ -1,0 +1,3 @@
+[submodule "ebanking-backend"]
+	path = ebanking-backend
+	url = https://github.com/Musta1Pha/ebanking-backend.git
